@@ -5,7 +5,7 @@
 1. Star, fork, and clone the repository onto your local drive.
 2. Find an open issue and assign it to yourself.
 3. **LOCAL** || ```git status``` to make sure you are on master
-3. **LOCAL** || ```git remote add upstream``` https://github.com/christo4b/Doctor_Readme.git
+3. **LOCAL** || ```git remote add upstream https://github.com/christo4b/Doctor_Readme.git```
 4. **LOCAL** || ```git pull --rebase upstream master```
 5. **LOCAL** || ```git checkout -b feature/nameOfIssueOrFeature```
 6. **GITHUB** || create initial pull request with task list of issues
