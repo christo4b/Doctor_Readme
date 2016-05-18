@@ -1,11 +1,9 @@
 # [Application Title]
 **INSERT a concise single paragraph that describes your product in modest, non-lofty terms.**
 
---------------------
 **INSERT links to your coverage images here**
 [![Build Status](https://secure.travis-ci.org/gotwarlost/istanbul.png)](http://travis-ci.org/gotwarlost/istanbul) [![Dependency Status](https://gemnasium.com/gotwarlost/istanbul.png)](https://gemnasium.com/gotwarlost/istanbul)
 --------------------
-
 **INSERT a link to your deployed version**
 
 ## Table of Contents 
@@ -58,13 +56,13 @@ $ npm start
 
 ## Architecture
 ### High Level Architecture
-![](http://i64.tinypic.com/2zpp661.png)
+![Architecture](http://i64.tinypic.com/2zpp661.png)
 ### Database Schema
 Postgres using SQLAlchemy ORM
-![](http://i68.tinypic.com/23i6plz.jpg)
+![Schema](http://i68.tinypic.com/23i6plz.jpg)
 
 ## API
-**For API Documentation, please see the [ENDPOINTS.md](https://github.com/christo4b/readme_template/blob/master/ENDPOINTS.md) file**
+**For API Documentation, please see the [ENDPOINTS.md](ENDPOINTS.md) file**
 
 ## Contributing
 **INSERT contributing workflow steps or link here**
