@@ -1,16 +1,16 @@
 # [Application Title]
-**[Insert concise single paragraph that describes your product in modest, non-lofty terms.]**
+**[INSERT concise single paragraph that describes your product in modest, non-lofty terms.]**
 
 _"Angular is a development platform for building mobile and desktop web applications."_
 
 _"HTTPie (pronounced aitch-tee-tee-pie) is a command line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible. It provides a simple http command that allows for sending arbitrary HTTP requests using a simple and natural syntax, and displays colorized output. HTTPie can be used for testing, debugging, and generally interacting with HTTP servers."_
 
 --------------------
-**[Insert links to your coverage images here]**
+**[INSERT links to your coverage images here]**
 [![Build Status](https://secure.travis-ci.org/gotwarlost/istanbul.png)](http://travis-ci.org/gotwarlost/istanbul) [![Dependency Status](https://gemnasium.com/gotwarlost/istanbul.png)](https://gemnasium.com/gotwarlost/istanbul)
 --------------------
 
-**[Insert a link to your deployed version]**
+**[INSERT a link to your deployed version]**
 
 ## Table of Contents 
 * [Features](#features)
@@ -22,11 +22,11 @@ _"HTTPie (pronounced aitch-tee-tee-pie) is a command line HTTP client. Its goal 
 * [License and credits](#license)
 
 ## Example / Usage
-**[Insert a description of how to use your product, if applicable]**
+**[INSERT a description of how to use your product, if applicable]**
 * Do you have an outward-facing API? If so, make sure API documentation is linked in TOC or here.
 * Does your product have any command-line inputs?
 
-**[Insert awesome GIF of your project]**
+**[INSERT awesome GIF of your project]**
 http://gifmaker.me/
 
 ## Getting Started and Configuration
@@ -83,7 +83,7 @@ Postgres using SQLAlchemy ORM
 |[Access to 23&Me Relative data](#get-1relativesuserid)|GET /1/relatives/:userID|
 
 ## Contributing
-**[Insert contributing workflow steps or link here]**
+**[INSERT contributing workflow steps or link here]**
 [INSERT APP NAME] was built using waffle.io as the project organization tool.
 Please visit [here](gitflow.md) for our workflow guidelines.
 
