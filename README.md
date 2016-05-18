@@ -13,13 +13,14 @@ _"HTTPie (pronounced aitch-tee-tee-pie) is a command line HTTP client. Its goal 
 **[INSERT a link to your deployed version]**
 
 ## Table of Contents 
-* [Features](#features)
-* [Getting started and configuration](#getting-started)
-* [The command line](#the-command-line)
-* [Ignoring code for coverage](#ignoring-code-for-coverage)
-* [API](#api)
-* [Changelog](https://github.com/gotwarlost/istanbul/blob/master/CHANGELOG.md)
-* [License and credits](#license)
+- [Example / Usage](#example--usage)
+- [Getting Started](#getting-started)
+- [Architecture](#architecture)
+  - [High Level Architecture](#high-level-architecture)
+  - [Database Schema](#database-schema)
+- [Contributing](#contributing)
+- [Questions and Issues](#questions-and-issues)
+- [Meta](#meta)
 
 ## Example / Usage
 **[INSERT a description of how to use your product, if applicable]**
@@ -29,7 +30,7 @@ _"HTTPie (pronounced aitch-tee-tee-pie) is a command line HTTP client. Its goal 
 **[INSERT awesome GIF of your project]**
 http://gifmaker.me/
 
-## Getting Started and Configuration
+## Getting Started
 _Use this section to describe the spin-up process. Installation steps, dependencies, etc._
 * Pretend your reader has never worked with your specific frameworks or languages. 
 * Do you have multiple environments? (dev, staging, etc.)?
