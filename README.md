@@ -1,6 +1,6 @@
-# Readmes for Maximum Employability
+# Doctor Readme
 
-A template package for high-quality readmes.
+A template package and guide for high-quality readmes.
 
 ## Table of Contents 
 - [Usage](#usage)
