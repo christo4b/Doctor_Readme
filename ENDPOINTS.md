@@ -207,3 +207,4 @@ Requests user's relatives' information upon login from 23andMe's designated endp
 ```bash
 curl -H 'Accept: %s%sBASE_API_URL + '/1/user/' + 'user_id'' -H 'Authorization: 'Bearer %s' % access_token' \ -X GET https://auth-url/1/relatives
 ```
+

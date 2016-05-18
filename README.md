@@ -64,23 +64,6 @@ $ npm start
 Postgres using SQLAlchemy ORM
 ![](http://i68.tinypic.com/23i6plz.jpg)
 
-## API Documentation
-##### Public End Points
-|Description|Endpoint|
-|---|---|
-|[Log-in OAuth](#get-receive_code)|GET /receive_code/|
-|[Log-in Demo](#post-demo)|POST /demo/|
-|[Log-out current user](#post-logout)|POST /logout|
-|[Get User Info](#get-userbasicinfo)|GET /user/basicinfo/|
-|[Get User Relatives](#post-userrelativesinfo)|POST /user/relativesinfo/|
-|[Get User's SNP Data](#post-usersnpinfo)|POST /user/snpinfo/|
-
-##### Admin Only
-|Description|Endpoint|
-|---|---|
-|[Access to 23&Me Individual data](#get-1useruserid)|GET /1/user/:userID|
-|[Access to 23&Me Genotype data](#get-1genotypeuserid)|GET /1/genotype/:userID|
-|[Access to 23&Me Relative data](#get-1relativesuserid)|GET /1/relatives/:userID|
 
 ## Contributing
 **[INSERT contributing workflow steps or link here]**
